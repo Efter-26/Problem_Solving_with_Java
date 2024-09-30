@@ -1,6 +1,6 @@
 # Problem-Solving-With-JAVA
 ## Project Overview
-### This project is a collection of 12 basic Java programs that demonstrate various problem-solving techniques. Below is an overview of each problem and its solution.
+### This project is a collection of some basic Java programs that demonstrate various problem-solving techniques. Below is an overview of each problem and its solution.
 ---
 
 ## Tools and Environment
